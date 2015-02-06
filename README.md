@@ -1,2 +1,2 @@
 # epsit.de
-code for personal website
+html for personal website
