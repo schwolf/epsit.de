@@ -13,8 +13,13 @@ img#btcaccepptedhere {
 
 /*todo add to impressum http: //xoo.me/templates/search/q/sticky%20note/page/3*/
 
+div.container {
+    width:280px;
+    height:280px;
+    float:left;
+}
+
 div.postit {
-    float: left;
     width: 220px;
     height: 220px;
     padding-top: 50px;
